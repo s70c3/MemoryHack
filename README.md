@@ -3,3 +3,4 @@
 * Роберт Воропаев
 * Шуана Пирбудагова
 * Mikhail Kuznetsov
+* Mariia Rumiantceva
